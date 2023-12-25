@@ -13,7 +13,7 @@
 ### **<div align="center">This profile will gather dust here forever</div>**  
   
 
-- 👁️‍🗨️ I’m currently working on resolving life's eternal questions.  
+- 👁️‍🗨️ I’m currently working on resolving life's eternal questions
   
 
 - 📚 Now I'm learning everything there is to learn  
