@@ -1,7 +1,7 @@
 # 💫 About Me:
-<div aligh="center">
-  <h3>keker</h3>
-</div>
+
+<h3 align="center">keker</h3>
+
 
 # 🔧 Stack:
 
